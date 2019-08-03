@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1495573258723-2c7be7a646ce?ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.panel {
+    background-color: darkgrey;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    background-position: center;
+    border: 3px solid black;
+}
+
+.jumbotron {
+    background-color: darkgrey;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    border: 3px solid black;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.form-control {
+    background-color: gray;
+}
+
